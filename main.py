@@ -1,8 +1,9 @@
 import os, random
+from pathlib import Path
 
 ### Config:
 
-wallpapers_PATH = "$HOME/Pictures/wallpapers"
+wallpapers_PATH = f"{Path.home()}/Pictures/wallpapers"
 
 ######
 
