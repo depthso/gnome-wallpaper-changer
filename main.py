@@ -2,7 +2,7 @@ import os, random
 
 ### Config:
 
-wallpapers_PATH = "/home/owl/Pictures/wallpapers"
+wallpapers_PATH = "$HOME/Pictures/wallpapers"
 
 ######
 
